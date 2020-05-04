@@ -1,3 +1,11 @@
+## How to use this project
+- First clone/download this project to your computer in folder htdocs 
+- Make sure that you have xampp or any kind of web server that have service like mysql and apache
+- Install the database sekolah.sql to your web server
+- After that go to command prompt and go to the folder that you save this project
+- On command prompt run "php artisan serve"
+- if you want to see admin site just 
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
